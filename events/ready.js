@@ -88,5 +88,5 @@ module.exports = async (client) => {
           embeds: [embedIcon],
         });
     }
-  }, 1 * 1000);
+  }, 5 * 1000);
 };
